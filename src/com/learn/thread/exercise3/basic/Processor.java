@@ -1,4 +1,4 @@
-package com.learn.thread.exercise3;
+package com.learn.thread.exercise3.basic;
 
 import java.util.Random;
 import java.util.Scanner;

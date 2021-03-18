@@ -1,4 +1,6 @@
-package com.learn.thread.exercise3;
+package com.learn.thread.exercise3.basic;
+
+import com.learn.thread.exercise3.basic.Processor;
 
 /**
  * Date:    Wednesday, 3/17/21
